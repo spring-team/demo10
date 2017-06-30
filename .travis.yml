@@ -30,3 +30,4 @@ cache:
   directories:
   - "$HOME/.atomist"
   - "$HOME/.cache/yarn"
+sudo: required
