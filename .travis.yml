@@ -28,5 +28,4 @@ notifications:
     on_error: always
 cache:
   directories:
-  - "$HOME/.atomist"
-  - "$HOME/.cache/yarn"
+  - $HOME/.m2
